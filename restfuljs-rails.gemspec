@@ -4,6 +4,7 @@ Gem::Specification.new do |s|
   s.name        = "restfuljs-rails"
   s.version     = "0.6.1"
   s.authors     = ["Aurélien Malisart"]
+  s.email       = 'aurelien.malisart@gmail.com'
   s.homepage    = "https://github.com/aurels/restfuljs-rails"
   s.summary     = "The restful.js JavaScript library ready to play with Rails."
   s.license     = "MIT"
