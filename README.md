@@ -1,7 +1,7 @@
 # restfuljs-rails
 
-[momentjs](https://github.com/marmelab/restful.js) is a pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.
-This RubyGem bundles [momentjs](https://github.com/marmelab/restful.js) for the Rails asset pipeline.
+[restful.js](https://github.com/marmelab/restful.js) is a pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.
+This RubyGem bundles [restful.js](https://github.com/marmelab/restful.js) for the Rails asset pipeline.
 
 ## Usage
 
